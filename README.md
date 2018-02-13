@@ -12,5 +12,4 @@ Assignment 0: Colorizing Prokudin-Gorskii images of the Russian Empire
 
 3. Call the main function - `starter('image.name')`
 
-    
 
